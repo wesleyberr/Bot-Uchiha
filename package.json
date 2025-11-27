@@ -6,6 +6,7 @@
     "prettier": "^3.6.2"
   },
   "dependencies": {
-    "@deyvydofc/baileys": "^1.0.2"
+    "@deyvydofc/baileys": "^1.0.2",
+    "qrcode-terminal": "^0.12.0"
   }
 }

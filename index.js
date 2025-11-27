@@ -1,8 +1,6 @@
 import makeWASocket, {
-    useMultiFileAuthState,
-    DisconnectReason,
-    fetchLatestBaileysVersion
-} from '@whiskeysockets/baileys';
+useMultiFileAuthState, fetchLatestBaileysVersion
+} from '@deyvydofc/baileys';
 import qrcode from 'qrcode-terminal';
 import P from 'pino';
 import http from 'http';

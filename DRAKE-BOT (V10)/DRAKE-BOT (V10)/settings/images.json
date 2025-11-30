@@ -1,0 +1,56 @@
+{
+  "defaultProfile": {
+    "value": "https://www.dropbox.com/scl/fi/i67nsqvsili0i1x4ia7w8/default.png?rlkey=hxoz6oyqh784rl1e6w7cvcej3&st=qpg1asno&dl=1"
+  },
+  "Main": {
+    "comment": "Logo principal do BOT, é usado no Menu e em alguns comandos, recomendado usar uma logo na vertical.",
+    "value": "https://img1.pixhost.to/images/9207/648031716_8291.jpg"
+  },
+  "Level": {
+    "comment": "Fundo nescessário para a criação da imagem (através da API)  notificar a conquista de um novo level, como também a verificação do seu patente atual.",
+    "value": "https://img1.pixhost.to/images/8228/634973096_7459.jpg"
+  },
+  "Welcome": {
+    "comment": "Imagens usadas como fundos no Card de entrada e saída do grupo.",
+    "Left": "https://img1.pixhost.to/images/9205/648016886_2817.jpg",
+    "Enter": "https://img1.pixhost.to/images/9205/648016886_2817.jpg"
+  },
+  "Brincadeiras": {
+    "comment": "São comandos que usam random para medir a porcentagem e divertir seu grupo, por exemplo: “O quanto você é gay?”, “Que tal um surubão?”",
+    "Cards": {
+      "Ditador": "https://files.catbox.moe/dqj21r.jpg",
+      "Gay": "https://files.catbox.moe/icfspe.jpg",
+      "Corno": "https://www.dropbox.com/scl/fi/f14keje9tvqknthr2dtg8/corno.jpg?rlkey=yit78dqmlqay680jelkboq69w&st=q8qq6c9y&dl=1",
+      "Gostosa": "https://files.catbox.moe/yknvw1.jpg",
+      "Peituda": "https://files.catbox.moe/bh09xc.jpg",
+      "Broxa": "https://files.catbox.moe/lvtm5q.jpg",
+      "Orgasmo": "https://files.catbox.moe/793yw7.jpg",
+      "Playboy": "https://files.catbox.moe/z9o9ih.jpg",
+      "Patricinha": "https://files.catbox.moe/toyrb6.jpg",
+      "Gilete": "https://files.catbox.moe/e73tgt.jpg",
+      "Dojob": "https://files.catbox.moe/6sg6xa.jpg",
+      "Gostoso": "https://files.catbox.moe/pua3zt.jpg",
+      "Feio": "https://www.dropbox.com/scl/fi/ocqszykqbpmu8lb1wqy9a/feio.jpg?rlkey=oi4a8ybhzcwp1vs29kleymg4z&st=a4eea32t&dl=1",
+      "Gado": "https://www.dropbox.com/scl/fi/ci9ndqem388ln6kms9e7l/gado.jpg?rlkey=knlfit018ifv7lddgj30vdxo7&st=ixz192t4&dl=1",
+      "Vesgo": "https://www.dropbox.com/scl/fi/y90y3vkpuv00vfbkk5duu/vesgo.jpg?rlkey=ggz065p7spkvij66qvwvy2vew&st=rnx4s4gx&dl=1",
+      "Bebado": "https://files.catbox.moe/xr0nyg.jpg",
+      "Bebada": "https://files.catbox.moe/7ymn9m.jpg",
+      "Tapa": "https://files.catbox.moe/bwijh6.mp4",
+      "Matar": "https://files.catbox.moe/0vmw16.mp4",
+      "Kisses": "https://files.catbox.moe/dz7ci6.mp4",
+      "Chute": "https://www.dropbox.com/scl/fi/s5xnyks0rvncp06idwh3r/d4b2525d2e1aeb33fa626.mp4?rlkey=ba3d3ns0z3eugi743rnfp83i4&st=7qb6ls0l&dl=1",
+      "Death": "https://www.dropbox.com/scl/fi/rc16y188s85vfi92cawhh/298aea280b6af0c4b53e7.mp4?rlkey=f6ty9n2vyeoedg2v89cemb6t7&st=w5y6zopt&dl=1",
+      "RankGay": "https://files.catbox.moe/icfspe.jpg",
+      "RankBaladeiros": "https://files.catbox.moe/41x3r8.jpg",
+      "RankSalariados": "https://files.catbox.moe/06skp2.jpg",
+      "RankGado": "https://www.dropbox.com/scl/fi/d7l8nlhfrlpay2w0kyfdr/c28abd2759de471a8364e.jpg?rlkey=43kyjyysbgqnvpl12hjezon6u&st=mnf8chqt&dl=1",
+      "RankCorno": "https://www.dropbox.com/scl/fi/p9g8x0q1qn6fzgk7chh5z/rnkcorno.jpg?rlkey=ff4195ewsafjde4a4mh6rnbg3&st=ujjgt9a3&dl=1",
+      "RankGostoso": "https://files.catbox.moe/pua3zt.jpg",
+      "RankGostosa": "https://files.catbox.moe/yknvw1.jpg",
+      "RankDitador": "https://files.catbox.moe/dqj21r.jpg",
+      "RankPatriota": "https://files.catbox.moe/d8j75b.jpg",
+      "RankPau": "https://files.catbox.moe/y5u8r2.jpg",
+      "Suruba": "https://www.dropbox.com/scl/fi/8u3rotp5b261862ae4q9g/73abfd759ad087d83b2b0.jpg?rlkey=c7b76llb6f5olqz8oo3nll6ak&st=n2wv3ale&dl=1"
+    }
+  }
+}
